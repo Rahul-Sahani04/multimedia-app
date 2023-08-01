@@ -65,4 +65,10 @@ export const data = [
       type: 'image',
       path: "/file-server/Images/25-5-Clock.png"
     },
+    {
+      id: 12,
+      name: 'Planner-App',
+      type: 'image',
+      path: "/file-server/Images/Planner-App.png"
+    },
   ]
